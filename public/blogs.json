@@ -1,39 +1,42 @@
 [
-    {
-      "id": 101,
-      "cover": "https://i.ibb.co.com/g6jtTDj/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background.jpg",
-      "title": "The Art of Web Development",
-      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
-      "posted_date": "2024-10-01",
-      "reading_time": 8,
-      "hashtags": ["#WebDevelopment", "#JavaScript", "#Frontend"]
-    },
-    {
-      "id": 1,
-      "cover": "https://i.ibb.co.com/3TTPKgb/pexels-thekarachiguy-29085388.jpg",
-      "title": "Mastering CSS Grid",
-      "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
-      "posted_date": "2024-10-05",
-      "reading_time": 10,
-      "hashtags": ["#CSS", "#Grid", "#ResponsiveDesign"]
-    },
-    {
-      "id": 2,
-      "cover": "https://i.ibb.co.com/S57MxC3/pexels-mixu-513809-1323206.jpg",
-      "title": "Understanding APIs",
-      "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
-      "posted_date": "2024-10-08",
-      "reading_time": 5,
-      "hashtags": ["#APIs", "#Backend", "#WebDevelopment"]
-    },
-    {
-      "id": 3,
-      "cover": "https://i.ibb.co.com/BGHVjW6/pexels-juan-felipe-ramirez-312591454-14412883.jpg",
-      "title": "Introduction to Tailwind CSS",
-      "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
-      "posted_date": "2024-10-12",
-      "reading_time": 5,
-      "hashtags": ["#CSS", "#Tailwind", "#UtilityFirst"]
-    }
-  ]
-  
+  {
+    "id": 101,
+    "cover": "https://i.ibb.co.com/g6jtTDj/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background.jpg",
+    "title": "The Art of Web Development",
+    "author": "Michael Lee",
+    "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+    "posted_date": "2024-10-01",
+    "reading_time": 8,
+    "hashtags": ["#WebDevelopment", "#JavaScript", "#Frontend"]
+  },
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/3TTPKgb/pexels-thekarachiguy-29085388.jpg",
+    "title": "Mastering CSS Grid",
+    "author": "John Doe",
+    "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+    "posted_date": "2024-10-05",
+    "reading_time": 10,
+    "hashtags": ["#CSS", "#Grid", "#ResponsiveDesign"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/S57MxC3/pexels-mixu-513809-1323206.jpg",
+    "title": "Understanding APIs",
+    "author": "Jane Smith",
+    "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
+    "posted_date": "2024-10-08",
+    "reading_time": 5,
+    "hashtags": ["#APIs", "#Backend", "#WebDevelopment"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/BGHVjW6/pexels-juan-felipe-ramirez-312591454-14412883.jpg",
+    "title": "Introduction to Tailwind CSS",
+    "author": "Alex Johnson",
+    "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
+    "posted_date": "2024-10-12",
+    "reading_time": 5,
+    "hashtags": ["#CSS", "#Tailwind", "#UtilityFirst"]
+  }
+]
